@@ -1,0 +1,12 @@
+{
+  "name": "target-test",
+  "version": "1.0.0",
+  "description": "Target internship test",
+  "main": "index.js",
+  "scripts": {
+    "fibonacci": "node fibonacci.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luanhmilano",
+  "license": "ISC"
+}

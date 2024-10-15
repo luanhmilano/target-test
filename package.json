@@ -1,0 +1,12 @@
+{
+  "name": "target-test",
+  "version": "1.0.0",
+  "description": "Target internship test",
+  "main": "index.js",
+  "scripts": {
+    "fibonacci": "node fibonacci.js",
+    "verificastring": "node verificaString.js"
+  },
+  "author": "luanhmilano",
+  "license": "ISC"
+}
